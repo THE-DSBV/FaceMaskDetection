@@ -1,2 +1,8 @@
 # FaceMaskDetection
-TensorFlow machine learning model to detect if someone is wearing a face mask.
+
+Machine learning model that detects if the person in a photo is wearing a face mask.
+
+Tools used:
+- TensorFlow
+- NumPy
+- Python
