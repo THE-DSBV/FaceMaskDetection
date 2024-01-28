@@ -1,0 +1,8 @@
+item {
+  name: "Masked"
+  id: 1
+}
+item {
+  name: "Unmasked"
+  id: 2
+}
